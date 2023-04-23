@@ -1,0 +1,4992 @@
+{
+	"theses": {
+		"0": {
+			"l": "Ich suche ein Team, in dem ich jede Woche mitarbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"1": {
+			"l": "Ich suche ein Team, in dem ich alle zwei Wochen mitarbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"2": {
+			"l": "Ich suche ein Team, in dem ich jeden Monat mitarbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"3": {
+			"l": "Ich suche ein Team, in dem ich flexibel mitarbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"4": {
+			"l": "Ich suche ein Team, in dem ich Sonntag Vormittag mitarbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"5": {
+			"l": "Ich suche ein Team, in dem ich Sonntag Abend mitarbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"6": {
+			"l": "Ich suche ein Team, in dem ich unter der Woche mitarbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"7": {
+			"l": "Ich suche ein Team, das viel mit Menschen in Kontakt kommt",
+			"s": "",
+			"x": ""
+		},
+		"8": {
+			"l": "Ich suche ein Team, das weniger mit Menschen in Kontakt kommt",
+			"s": "",
+			"x": ""
+		},
+		"9": {
+			"l": "Ich suche ein Team, in dem ich mit Kindern/Jugendlichen arbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"10": {
+			"l": "Ich suche ein Team, in dem ich von zuhause aus arbeiten kann",
+			"s": "",
+			"x": ""
+		},
+		"11": {
+			"l": "Ich suche ein Team, in dem ich vor Ort mit anpacken kann",
+			"s": "",
+			"x": ""
+		},
+		"12": {
+			"l": "Ich suche ein Team, in dem ich anderen helfen kann",
+			"s": "",
+			"x": ""
+		},
+		"13": {
+			"l": "Ich suche ein Team, in dem ich andere ausbilden kann",
+			"s": "",
+			"x": ""
+		},
+		"14": {
+			"l": "Ich suche ein Team, das im Hintergrund agiert",
+			"s": "",
+			"x": ""
+		},
+		"15": {
+			"l": "Ich suche ein Team, das im Rampenlicht steht",
+			"s": "",
+			"x": ""
+		},
+		"16": {
+			"l": "Ich suche ein Team, das Organisationstalent braucht",
+			"s": "",
+			"x": ""
+		},
+		"17": {
+			"l": "Ich suche ein Team im musikalischen Bereich",
+			"s": "",
+			"x": ""
+		},
+		"18": {
+			"l": "Ich suche ein Team im kreativen Bereich",
+			"s": "",
+			"x": ""
+		},
+		"19": {
+			"l": "Ich suche ein Team im technischen Bereich",
+			"s": "",
+			"x": ""
+		},
+		"20": {
+			"l": "Ich suche ein Team, das nach Außen gerichtet ist",
+			"s": "",
+			"x": ""
+		},
+		"21": {
+			"l": "Ich suche ein Team, das nach Innen gerichtet ist",
+			"s": "",
+			"x": ""
+		},
+		"22": {
+			"l": "Ich suche ein Team, in dem ich regelmäßig lernen kann/Weiterbildung bekomme",
+			"s": "",
+			"x": ""
+		},
+		"23": {
+			"l": "Ich suche ein Team für weniger als 6 Monate",
+			"s": "",
+			"x": ""
+		},
+		"24": {
+			"l": "Ich suche ein Team für 6 Monate",
+			"s": "",
+			"x": ""
+		},
+		"25": {
+			"l": "Ich suche ein Team für mehr als 6 Monate",
+			"s": "",
+			"x": ""
+		},
+		"26": {
+			"l": "Ich suche ein Team auf unbestimmte Zeit",
+			"s": "",
+			"x": ""
+		},
+		"27": {
+			"l": "Ich suche ein Team mit Schwerpunkt geistliche Weiterentwicklung ",
+			"s": "",
+			"x": ""
+		},
+		"28": {
+			"l": "Ich suche ein Team mit Schwerpunkt persönliche Weiterentwicklung",
+			"s": "",
+			"x": ""
+		},
+		"29": {
+			"l": "Ich suche ein Team mit Schwerpunkt fachliche Weiterbildung",
+			"s": "",
+			"x": ""
+		},
+		"30": {
+			"l": "Ich suche ein großes Team",
+			"s": "",
+			"x": ""
+		},
+		"31": {
+			"l": "Ich suche ein kleines Team, in dem ich selbstständiger arbeiten kann",
+			"s": "",
+			"x": ""
+		}
+	},
+	"lists": {
+		"0": {
+			"name": "Tontechnik",
+			"name_x": "Tontechnik"
+		},
+		"1": {
+			"name": "Fotografie",
+			"name_x": "Fotografie"
+		},
+		"2": {
+			"name": "Barteam",
+			"name_x": "Barteam"
+		},
+		"3": {
+			"name": "Training&Entwicklung",
+			"name_x": "Training&Entwicklung"
+		},
+		"4": {
+			"name": "College",
+			"name_x": "College"
+		},
+		"5": {
+			"name": "Coming Home",
+			"name_x": "Coming Home"
+		},
+		"6": {
+			"name": "Producing",
+			"name_x": "Producing"
+		},
+		"7": {
+			"name": "Design",
+			"name_x": "Design"
+		},
+		"8": {
+			"name": "Events",
+			"name_x": "Events"
+		},
+		"9": {
+			"name": "Explore",
+			"name_x": "Explore"
+		},
+		"10": {
+			"name": "Gebet steam&Get free",
+			"name_x": "Gebetsteam&Get free"
+		},
+		"11": {
+			"name": "Welcome",
+			"name_x": "Welcome"
+		},
+		"12": {
+			"name": "Kids (0-11)",
+			"name_x": "Kids (0-11)"
+		},
+		"13": {
+			"name": "Kindersegnung",
+			"name_x": "Kindersegnung"
+		},
+		"14": {
+			"name": "Kommunikation",
+			"name_x": "Kommunikation "
+		},
+		"15": {
+			"name": "Ladies",
+			"name_x": "Ladies"
+		},
+		"16": {
+			"name": "Livestream",
+			"name_x": "Livestream"
+		},
+		"17": {
+			"name": "MC",
+			"name_x": "MC"
+		},
+		"18": {
+			"name": "Mediastore",
+			"name_x": "Mediastore"
+		},
+		"19": {
+			"name": "Music al",
+			"name_x": "Musical"
+		},
+		"20": {
+			"name": "Männersache",
+			"name_x": "Männersache"
+		},
+		"21": {
+			"name": "Newsle tter",
+			"name_x": "Newsletter"
+		},
+		"22": {
+			"name": "Operations",
+			"name_x": "Operations"
+		},
+		"23": {
+			"name": "Podcast ",
+			"name_x": "Podcast"
+		},
+		"24": {
+			"name": "Serienentwicklung",
+			"name_x": "Serienentwicklung"
+		},
+		"25": {
+			"name": "Smallgroup Koordination",
+			"name_x": "Smallgroup Koordination"
+		},
+		"26": {
+			"name": "Social Media",
+			"name_x": "Social Media"
+		},
+		"27": {
+			"name": "TWNTS",
+			"name_x": "TWNTS"
+		},
+		"28": {
+			"name": "Team Night United",
+			"name_x": "Team Night United"
+		},
+		"29": {
+			"name": "Teens/Youth",
+			"name_x": "Teens/Youth"
+		},
+		"30": {
+			"name": "Video",
+			"name_x": "Video"
+		},
+		"31": {
+			"name": "Website",
+			"name_x": "Website"
+		},
+		"32": {
+			"name": "Worship",
+			"name_x": "Worship"
+		},
+		"33": {
+			"name": "YouTube",
+			"name_x": "YouTube"
+		},
+		"34": {
+			"name": "kreative/digitale Innovation",
+			"name_x": "kreative/digitale Innovation"
+		},
+		"35": {
+			"name": "Bible Track",
+			"name_x": "Bible Track"
+		}
+	},
+	"answers": {
+		"0": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "b",
+				"statement": ""
+			},
+			"24": {
+				"selection": "b",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "b",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"1": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": "Grundsätzlich gibst du an, an welchen Sonntagen du kannst. Demnach ist es schon auch flexibel. Wir wünschen uns aber trotzdem ein Commitment der Mitarbeit von mindestens 1x pro Monat "
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Ab und zu haben wir auch Events unter der Woche, die fotografiert werden können."
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Man sollte schon sensibel sein (z.B. zu spüren, wann es okay ist Worship Momente zu fotografieren) und sobald man sein Media Shirt an hat, sprechen einen auch immer mal wieder Menschen an. Aber in der Regel ist man jetzt nicht Ansprechpartner Nummer 1."
+			},
+			"8": {
+				"selection": "b",
+				"statement": "Man sollte schon sensibel sein (z.B. zu spüren, wann es okay ist Worship Momente zu fotografieren) und sobald man sein Media Shirt an hat, sprechen einen auch immer mal wieder Menschen an. Aber in der Regel ist man jetzt nicht Ansprechpartner Nummer 1."
+			},
+			"9": {
+				"selection": "a",
+				"statement": "Kinder sind aus unserer Kirche nicht wegzudenken. Was wäre also ein Sonntag ohne Fotos von den Kids? Er wäre nicht komplett.\n"
+			},
+			"10": {
+				"selection": "c",
+				"statement": "Man kann die Bilder zu Hause bearbeiten. Aber du musst sie ja vorher vor Ort fotografiert haben. Demnach geht es nicht komplett von zu Hause aus."
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": "Wir sind immer hilfsbereit und gehen auch auf Fotowünsche ein."
+			},
+			"13": {
+				"selection": "a",
+				"statement": "Wir lieben Exzellenz und wollen uns ständig verbessern. Wenn du schon Erfahrung in der Fotografie hast, kannst du dein Know-How auch gerne mit uns teilen.\n"
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Wenn uns keiner mitbekommt und wir nur die Stimmung einfangen, dann haben wir unser Ziel erreicht."
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": "Als Foto-Team haben wir überschaubare Strukturen. Aber da wäre es gut, wenn sich daran gehalten wird.\n"
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": "Ein Ziel ist es Fotos zu erstellen, die letztendlich für Social Media und Website genutzt werden können."
+			},
+			"21": {
+				"selection": "a",
+				"statement": "Ein Ziel ist es Fotos zu erstellen, mit denen wir unserer Kirche, die bevorstehenden Events, Groups und Kurse anbieten können.\n"
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "b",
+				"statement": "In Ausnahmefällen ist es okay. Aber im Normalfall möchten wir, dass die Volunteers sich für mindestens 6 Monate commiten."
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a ",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": "Es gibt kein Teamtreffen ohne Gebet oder kurzem Input. Aber trotzdem ist unsere Ausrichtung eher fachlicher Natur."
+			},
+			"28": {
+				"selection": "c",
+				"statement": "Im Team lernen wir uns persönlich kennen und unterhalten uns auch über persönliche Themen aber unser Fokus bleibt beim Fachlichen. Soll heißen: wir werden mehr über Fotografie-Sachen sprechen, als über persönliche Probleme."
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": "Unser Wunsch ist es ein großes Team zu werden. Und je nach Sichtweise sind wir es auch. Aktuell sind wir ca. 10 Fotografen."
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Selbstständiges Arbeiten ist bei uns enorm wichtig. Natürlich wollen wir auch ein Teamgefühl erleben und eine Feedback Kultur entwickeln. Aber am Sonntag arbeitest du in der Regel alleine."
+			}
+		},
+		"2": {
+			"0": {
+				"selection": "a",
+				"statement": "Es wäre möglich jeden Sonntag mitzuarbeiten, aber es ist von der Leitung her nicht gewollt um auch einfach mal Gast sein zu dürfen.\n"
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Es ist unser Wunsch ein Commitment aller Mitarbeiter für zwei Schichten im Monat (einmal Früh-, einmal Spätschicht) zu haben. Es ist aber auch möglich auf Wünsche einzugehen.\n"
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Auch ein planmäßiger Einsatz einmal im Monat ist durchaus machbar. Springer sind fast jeden Monat gefragt.\n"
+			},
+			"3": {
+				"selection": "b",
+				"statement": "Flexibel, wenn vor Ende des Monats klar ist, welche Schicht(en) im darauf folgenden Monat gemacht werden kann. Kurzfristige Änderungen (wie z.B. Krankheit o.ä.) sind natürlich ausgenommen.\n"
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Unsere Frühschicht geht um 8: 00 los und endet mit dem Mitarbeitercatering ca. 14: 00\n"
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Unsere Spätschicht beginnt um 16: 00 und endet offiziell um 20: 15\n"
+			},
+			"6": {
+				"selection": "b",
+				"statement": "Einige Aufgaben wie z.B. Einkaufen, Handtücher und Schürzen waschen, Spezials ausdenken und ähnliches sind Sachen, die unter der Woche stattfinden.\n"
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Das schöne am Barteam ist, dass die Menschen zu DIR kommen! Man sieht fast jedes Gesicht aus der gesamten Gemeinde und darf ihnen ein Lächeln schenken.\n"
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": "\n"
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": "Kisten schleppen, Kühlschränke auffüllen, Spühmaschinen beladen und ausräumen, Bar sauber halten, Tische abräumen, wenn Zeit ist den Gästen Getränke bringen und evtl. das Welcometeam unterstützen.\n"
+			},
+			"12": {
+				"selection": "b",
+				"statement": "Ein kurzes Zuhören, ein freundliches Lächeln, ein ausgegebenes Getränk mögen als Kleinigkeiten erscheinen, sind aber oft eine große Hilfe.\n"
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": "Welcome und Barteam sind meist die ersten Gesichter, die von Gästen wahrgenommen werden.\n"
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b ",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": "Wir stehen sozusagen an der Grenze nach Außen.\n"
+			},
+			"21": {
+				"selection": "b",
+				"statement": "Wir kümmern uns um die Mitarbeiter, genauso wie um die Gäste.\n"
+			},
+			"22": {
+				"selection": "b",
+				"statement": "Unser Wunsch ist, durch die Trambriefings jeden Sonntag eine geistliches Nugget, neue Gedanken und Sichtweisen, sowie Teambuilding zu fördern.\n"
+			},
+			"23": {
+				"selection": "b",
+				"statement": "Wir hätten schon gern ein Commitment für mind. 6 Monate\n"
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": ""
+			},
+			"28": {
+				"selection": "b",
+				"statement": "Entwicklung im Umgang mit Menschen ist Teil des Dienstes\n"
+			},
+			"29": {
+				"selection": "b",
+				"statement": "Gästebetreuung, Umgang mit Menschen und das Gastro-1×1 "
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Wir haben immer erfahrene Leute, die das Vertrauen der Leitung genießen, neue Ideen einbringen und umsetzen dürfen und gerne sehen, wenn man selbstständig arbeitet.\n"
+			}
+		},
+		"3": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": "Es ist nicht 100% jede zwei Wochen, aber so in etwa! :)\n"
+			},
+			"2": {
+				"selection": "b",
+				"statement": "Es ist nicht 100% jeden Monat, aber so in etwa! :)"
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Die Mitarbeit hängt vom jeweiligen Worshop/Kurs ab und ist sehr flexibel."
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Teamtreffen und Angebote finden häufig am Samstag statt bzw. abends unter der Woche!"
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Ja, wir haben sehr viel Kontekt mit anderen ICFlern, v.a. Leiter aber auch andere, die sich weiterbilden wollen! - Eine total schöne Zielgruppe!! :)"
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": "Derzeit leider nicht. Visionär gedacht in Zukunft auch das!"
+			},
+			"10": {
+				"selection": "b",
+				"statement": "Teamtreffen finden häufig online statt, aber nicht ausschließlich. Angebote so oft es geht live, im ICF."
+			},
+			"11": {
+				"selection": "b",
+				"statement": "Angebote so oft es geht live, im ICF. Teamtreffen finden häufig online statt, aber nicht ausschließlich."
+			},
+			"12": {
+				"selection": "b",
+				"statement": "Wir helfen indirekt. Indem wir Raum schaffen, um sich weiterzubilden: in geistlicher, fachlicher und persönlicher Hinsicht."
+			},
+			"13": {
+				"selection": "a",
+				"statement": "Absolut! Hier bist du Gold richtig! :)"
+			},
+			"14": {
+				"selection": "b",
+				"statement": "Meistens ja, während eines Workshops/Kurs sind wir auch im Rampenlicht aktiv. Auf deine Wünsche gehen wir gern ein."
+			},
+			"15": {
+				"selection": "b",
+				"statement": "Wir sind nicht der Mittelpunkt, eines Workshops/Kurses aber Moderationsaufgaben fallen auch in unseren Aufgabenbereich, also eher ein kleines Rampenlicht! ;)"
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": "Kreativ ist unsere Arbeit schon auch ... allerdings nicht klassisch kreativ! Wir gestalten und konzipieren die Workshops/Kurse zum Teil selbst und freuen uns über kreative Ideen."
+			},
+			"19": {
+				"selection": "c",
+				"statement": "Bei Angeboten ist es hilfreich, auch technisches Know How zu haben, aber kein Must have!\n"
+			},
+			"20": {
+				"selection": "c",
+				"statement": "Unsere Angebote sind v.a. für ICFler und manchmal für andere Christen.\n"
+			},
+			"21": {
+				"selection": "a",
+				"statement": "Die Angebote sind v.a. für ICFler.\n"
+			},
+			"22": {
+				"selection": "a",
+				"statement": "Ja, was wir anbieten erleben wir selbst mit und es fördert und fordert uns ebenso wie die Teilnehmer! :)"
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "b",
+				"statement": "Unter umständen kann das passen. Je nachdem, welchen Schwerpunkt du setzten willst. "
+			},
+			"25": {
+				"selection": "a",
+				"statement": "Ja! Die Angebote gehen langfristig! :)"
+			},
+			"26": {
+				"selection": "a",
+				"statement": "Herzlich Willkommen! Die Angebote gehen langfristig! :)\n"
+			},
+			"27": {
+				"selection": "a",
+				"statement": "Bei uns sind alle drei Aspekte: geistlich, perönlich und fachlich vertreten. Und auch bewusst so gesetzt! Die Schwerpunkte sind nur jedes Mal etwas anderes gewichtet. Wobei das fachliche meist im Vordergrund ist."
+			},
+			"28": {
+				"selection": "a",
+				"statement": "Bei uns sind alle drei Aspekte: perönlich, geistlich und fachlich vertreten. Und auch bewusst so gesetzt! Die Schwerpunkte sind nur jedes Mal etwas anderes gewichtet. Wobei das fachliche meist im Vordergrund ist."
+			},
+			"29": {
+				"selection": "a",
+				"statement": "Absolut! Wenn auch die beiden anderen Aspekte: perönlich und geistlich vertreten sind! Die Schwerpunkte sind jedes Mal etwas anderes gewichtet. Wobei das fachliche meist im Vordergrund ist."
+			},
+			"30": {
+				"selection": "b",
+				"statement": "Derzeit sind wir noch überschaubar ... und sind gespannt, was wir mit Gott erreichen können! :)"
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Ja, derzeit sind wir noch klein. Selbständiges Arbeiten ist bei der Durchführung der Workshops/Kurse nur bedingt möglich, weil viele andere \"mitdrin hängen\". Im Voraus bei der Planung und Organisation ist selbständies Arbeiten sehr wichtig!"
+			}
+		},
+		"4": {
+			"0": {
+				"selection": "a",
+				"statement": "Die Leadershiptrack Module finden an 9 Samstagen von Februar bis Juni statt, in dieser Zeit treffen wir uns wöchentlich für Nachbesprechungen und an den Samstagen zum Modul. "
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": "In der Zeit, wenn keine Module stattfinden treffen wir uns ungefähr monatlich zur Nachbereitung und Vorbereitung des nächsten Leadershiptrack Durchgangs. "
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Wie oft wir uns treffen hängt davon ab, ob gerade die Module stattfinden oder nicht. Deshalb ist die Mitarbeit im Jahr flexibel aufgeteilt. "
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Unsere Planungstreffen finden unter der Woche statt. "
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Wir planen und organisieren den College Leadershiptrack, damit die einzelnen Module. Wir unterstützen die Teacher zur Vorbereitung und während ihres Moduls und begleiten die Studenten. \n"
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Wir organisieren im Hintergrund und unterstützen während des Moduls bei den Übungsaufgaben oder logistischen Themen "
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Während der Module kann die Moderation durch den Tag übernommen werden. \n"
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": "Der nächste Durchgang läuft von Februar bis Juni, eine Mitarbeit bis Ende des Leadershiptracks ist zu empfehlen. "
+			},
+			"24": {
+				"selection": "c",
+				"statement": "Der nächste Durchgang läuft von Februar bis Juni, eine Mitarbeit bis Ende des Leadershiptracks ist zu empfehlen. \n"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
+			},
+			"28": {
+				"selection": "a",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"5": {
+			"0": {
+				"selection": "b",
+				"statement": "Die Coming Home Group findet jede Woche am Montagabend um 20.00 Uhr bis 21.00 Uhr statt. Bei entsprechender Größe des Teams ist eine Abwechslung möglich und nicht jede Woche deine Anwesenheit notwendig. Eine flexible Planung der zu übernehmenden Termine ist möglich."
+			},
+			"1": {
+				"selection": "b",
+				"statement": "Die Coming Home Group findet jede Woche am Montagabend um 20.00 Uhr bis 21.00 Uhr statt. Bei entsprechender Größe des Teams ist eine Abwechslung möglich und nicht jede Woche deine Anwesenheit notwendig. Eine flexible Planung der zu übernehmenden Termine ist möglich.\n"
+			},
+			"2": {
+				"selection": "b",
+				"statement": "Die Coming Home Group findet jede Woche am Montagabend um 20.00 Uhr bis 21.00 Uhr statt. Bei entsprechender Größe des Teams ist eine Abwechslung möglich und nicht jede Woche deine Anwesenheit notwendig. Eine flexible Planung der zu übernehmenden Termine ist möglich."
+			},
+			"3": {
+				"selection": "b",
+				"statement": "Die Coming Home Group findet jede Woche am Montagabend um 20.00 Uhr bis 21.00 Uhr statt. Bei entsprechender Größe des Teams ist eine Abwechslung möglich und nicht jede Woche deine Anwesenheit notwendig. Eine flexible Planung der zu übernehmenden Termine ist möglich."
+			},
+			"4": {
+				"selection": "b",
+				"statement": "Hier lernst du Menschen kennen, die du gerne vor und nach der Celebration triffst."
+			},
+			"5": {
+				"selection": "b",
+				"statement": "Hier lernst du Menschen kennen, die du gerne vor und nach der Celebration triffst."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Die eigentliche Coming Home Group findet jede Woche am Montagabend um 20.00 Uhr bis 21.00 Uhr statt."
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Die CHG wendet sich vor allem an Menschen die mehr über das ICF wissen und sich ggf. connecten wollen."
+			},
+			"8": {
+				"selection": "c",
+				"statement": "In dem du den Group-Abend leitest hast du unmittelbar persönlichen Kontakt zu den Menschen."
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Die CHG findet derzeit und mittelfristig online per Zoom statt.\n"
+			},
+			"11": {
+				"selection": "c",
+				"statement": "Keine handwerkliche Arbeit, hier wird geredet, gesegnet und ausgetauscht."
+			},
+			"12": {
+				"selection": "c",
+				"statement": "Hier wird weniger konkret geholfen, sondern unsere Kirche, unser Movement erklärt. Benötigte Hilfe wird bestenfalls vermittelt."
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": "Hier stehst du im Mittelpunkt und leitest den vorbereiteten Themen-Abend."
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Hier stehst du, wenn auch in kleineren Kreisen, im Rampenlicht."
+			},
+			"16": {
+				"selection": "c",
+				"statement": "Ein bisschen Terminplanung, aber zu wenig um dein Organisationstalent auszuschöpfen.\n"
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": "Die Coming Home Group ist genau die Brücke von Neulingen die sich für unsere Church interessieren."
+			},
+			"21": {
+				"selection": "b",
+				"statement": "Die Coming Home Group ist genau die Brücke von Neulingen die sich für unsere Church interessieren."
+			},
+			"22": {
+				"selection": "c",
+				"statement": "Hier gibt es keine konkrete Weiterbildung, aber du entwickelst sicher deine Stärken vor Menschen zu sprechen und in der Leiterschaft."
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "c",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "b",
+				"statement": "Lass uns verhandeln."
+			},
+			"27": {
+				"selection": "a",
+				"statement": "Du vermittelst in der CHG das Evangelium und die Grundlagen des Glaubens. Dadurch kommen Menschen ins Nachdenken über ihr geistliches Wachstum."
+			},
+			"28": {
+				"selection": "a",
+				"statement": "Im Anschluss an die CHG vermittelst du Menschen in Teams die ihren Interessen entsprechen. Damit förderst du ihre Entwicklung."
+			},
+			"29": {
+				"selection": "c",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"6": {
+			"0": {
+				"selection": "b",
+				"statement": "Du kannst 1-3 mal im Monat als Producer eingeplant werden"
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Du kannst 1-3 mal im Monat als Producer eingeplant werden"
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Du kannst 1-3 mal im Monat als Producer eingeplant werden"
+			},
+			"3": {
+				"selection": "b",
+				"statement": "Es ist auch möglich nach intensiver Einarbeitung oder als Co-Producer unregelmäßig eingeplant zu werden.\n"
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Es ist auch planbar nur vormittags mitzuarbeiten."
+			},
+			"5": {
+				"selection": "b",
+				"statement": "Es ist möglich das Team Abends zu unterstützen."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Du bereitest im Team mit Prediger, WL, MD, MC und den anderen Production Teams die Sonntage unter der Woche vor. Ihr trefft euch am Dienstag Abend vor dem Sonntag."
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Deine Rolle lebt von der Kommunikation mit vielen unterschiedlichen Leitern der Celebrations."
+			},
+			"8": {
+				"selection": "c",
+				"statement": "Leider funktioniert die Aufgabe nicht ausschließlich mit PCO Plänen."
+			},
+			"9": {
+				"selection": "b",
+				"statement": "Es ist möglich dein Know-How im Next Gen Bereich einzubringen."
+			},
+			"10": {
+				"selection": "b",
+				"statement": "Du kannst vieles von zu Hause erledigen und delegieren. Am Sonntag aber bist du präsent.\n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": "Du kannst vieles von zu Hause erledigen und delegieren. Am Sonntag aber bist du präsent."
+			},
+			"12": {
+				"selection": "c",
+				"statement": "Im engeren Sinn hilfst du natürlich allen Leitern in den Celebrations"
+			},
+			"13": {
+				"selection": "b",
+				"statement": "Wenn du neu dazu kommst hoffen wir auf ein offenes Herz vieles neu zu lernen. Wenn du ein Producing Pro bist triffst du auf ein Team von Menschen, die es lieben sich weiter zu entwickeln."
+			},
+			"14": {
+				"selection": "a",
+				"statement": "So wichtig deine Rolle auch ist, sieht man im Idealfall nichts von dir, außer im De-Brief zwischen den Celebrations."
+			},
+			"15": {
+				"selection": "c",
+				"statement": "Du stehst an sich überall, außer auf der Bühne."
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "b",
+				"statement": "Du hast bei einer Celebration, die zu 70% von musikalischen Elementen getragen bzw. untermalt ist zumindest viel damit zu tun, wenn auch du Pros hast, die dafür verantwortlich sind."
+			},
+			"18": {
+				"selection": "a",
+				"statement": "Das Gestalten und Formen eines roten Fadens einer Celebration ist mehr als nur einen Plan in eine Tabelle zu schreiben, sondern ist auch ein zutiefst kreativer/geistlicher Prozess, der viel Feingefühl für den Moment verlangt.\n"
+			},
+			"19": {
+				"selection": "b",
+				"statement": "Du hast bei einer Celebration zumindest viel damit zu tun, wenn auch du Pros hast, die dafür verantwortlich sind."
+			},
+			"20": {
+				"selection": "b",
+				"statement": "Unsere Celebrations (und vor allem Big Events) haben den Anspruch auch VIPs abzuholen. Wir gestalten es einladend für Menschen, die noch nie in der Kirche waren und schaffen ein neues Erlebnis von Kirche.\n"
+			},
+			"21": {
+				"selection": "a",
+				"statement": "Du arbeitest in erster Linie mit unterschiedlichen Leitern der Celebrations.\n"
+			},
+			"22": {
+				"selection": "a",
+				"statement": "Du bekommst und verteilst regelmäßig Feedback."
+			},
+			"23": {
+				"selection": "c",
+				"statement": "Die Aufgabe erfordert schon ein kennen lernen der laufenden Prozesse und kennen lernen der unterschiedlichen Leiter und ihrer Stärken und Schwächen und wie man sie am Besten unterstützen kann."
+			},
+			"24": {
+				"selection": "b",
+				"statement": "Besser wäre es für längere Zeit, aber als Co-Producer kann es auch in kurzer Zeit sehr wertvoll und sinnvoll sein.\n"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": "Du bist als Person die am Puls der inhaltlichen und organisatorischen Celebrationplanung dabei ist eine Person, die ein Gespür für göttliche Momente hat und kultivierst deine persönliche und geistliche Entwicklung durch andere Angebote der Church (Explore, Get Free, Smallgroups, College, etc)"
+			},
+			"28": {
+				"selection": "b",
+				"statement": "Du bist als Person die am Puls der inhaltlichen und organisatorischen Celebrationplanung dabei ist eine Person, die ein Gespür für göttliche Momente hat und kultivierst deine persönliche und geistliche Entwicklung durch andere Angebote der Church (Explore, Get Free, Smallgroups, College, etc)"
+			},
+			"29": {
+				"selection": "b",
+				"statement": "Du bist als Person die am Puls der inhaltlichen und organisatorischen Celebrationplanung dabei ist eine Person, die ein Gespür für göttliche Momente hat und kultivierst deine persönliche und geistliche Entwicklung durch andere Angebote der Church (Explore, Get Free, Smallgroups, College, etc). Es wird aber eine Phase der Einarbeitung und des Mitlaufens mit einem erfahreneren Producers geben.\n"
+			},
+			"30": {
+				"selection": "c",
+				"statement": "Wir sind noch nicht so viele, aber wir freuen uns, wenn wir bald ein großes Team sind"
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Es ist wichtig, dass du sehr selbständig bist. Im Zweifel bist du die Person, die bei anderen hinterher ist ;-)"
+			}
+		},
+		"7": {
+			"0": {
+				"selection": "a",
+				"statement": "Es gibt unterschiedliche Aufgaben. Manche Aufgaben sind wöchentlich zu erledigen, manche monatlich, manche seltener.\n"
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Es gibt unterschiedliche Aufgaben. Manche Aufgaben sind wöchentlich zu erledigen, manche monatlich, manche seltener.\n"
+			},
+			"4": {
+				"selection": "b",
+				"statement": ""
+			},
+			"5": {
+				"selection": "b",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Größtenteils arbeiten wir jeder für sich von zu Hause aus. Bei Feedbacktreffen und Collaborations kann es Treffen vor Ort oder online geben."
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": "Fast jeder Bereich braucht immer wieder Grafiken und freuen sich, wenn ihnen die Arbeit abgenommen wird.\n"
+			},
+			"13": {
+				"selection": "a",
+				"statement": "Wir wollen immer besser werden. Wenn du besondere Skills hast, kannst du diese immer gerne weitergeben.\n"
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"8": {
+			"0": {
+				"selection": "b",
+				"statement": "Wir haben regelmäßige Events, die jährlich stattfinden."
+			},
+			"1": {
+				"selection": "b",
+				"statement": "Wir haben regelmäßige Events, die jährlich stattfinden."
+			},
+			"2": {
+				"selection": "b",
+				"statement": "Wir haben regelmäßige Events, die jährlich stattfinden."
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Wir haben regelmäßige Events, die jährlich stattfinden."
+			},
+			"4": {
+				"selection": "b",
+				"statement": "Wir haben regelmäßige Events, die jährlich stattfinden. Weihnachten und Ostern fallen immer auf einen Sonntag und bei Big Events teilen wir uns nicht zwischen morgens und abends auf."
+			},
+			"5": {
+				"selection": "b",
+				"statement": "Wir haben regelmäßige Events, die jährlich stattfinden. Weihnachten und Ostern fallen immer auf einen Sonntag und bei Big Events teilen wir uns nicht zwischen morgens und abends auf."
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Wir versuchen grundsätzlich die Samstage frei zu halten, aber in der konkreten Vorbereitung mit Teams kann es dazu kommen, dass wir Samstage auch nutzen bzw. fallen einige Events auch auf Samstage.\n"
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Die Aufgabenbereiche können so vielseitig sein, wie die \"Events\" die noch kommen könnten. Grundsätzlich arbeitest du im Team mit mindestens den Leitern von anderen Teams zusammen.\n"
+			},
+			"8": {
+				"selection": "b",
+				"statement": "Die Aufgabenbereiche können so vielseitig sein, wie die \"Events\" die noch kommen könnten. Grundsätzlich arbeitest du im Team mit mindestens den Leitern von anderen Teams zusammen, kannst aber auch z.B. mit Recherche Aufgaben oder anderen Aufgaben mit wenig Menschenkontakt zu tun haben."
+			},
+			"9": {
+				"selection": "a",
+				"statement": "Fast jedes Big Event läuft mehr oder weniger gemeinsam mit unserem Next Gen Bereich.\n"
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Nicht jede Aufgabe erfordert ein persönliches Treffen im ICF\n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": "Spätestens beim Big Event ist das der Fall.\n"
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": "Hier suchen wir auch Experten auf unterschiedlichen Gebieten, die die Events und unsere Teams bereichern können."
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Je nach Ausrichtung des Events wirst du selbst Akteur sein oder auch im Hintergrund sein"
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Je nach Ausrichtung des Events wirst du selbst Akteur sein oder auch im Hintergrund sein"
+			},
+			"16": {
+				"selection": "b",
+				"statement": "Für die Organisation haben wir Standards erarbeitet, auf die wir zurückgreifen können. Und je nach Umfang werden unserer Planungen durch das Producer Team und andere in Frage kommende Teams unterstützt."
+			},
+			"17": {
+				"selection": "a",
+				"statement": "Wir lieben Musik, auch zu unseren Big Events, die oft z.B. Musicals sind.\n"
+			},
+			"18": {
+				"selection": "a",
+				"statement": "Das formen und gestalten eines großen Events ist immer auch ein kreativer Prozess.\n"
+			},
+			"19": {
+				"selection": "b",
+				"statement": "Für die Umsetzung hat man zumindest mit Technikteams zu tun."
+			},
+			"20": {
+				"selection": "a",
+				"statement": "Alle unsere Big Events haben einen ganz klaren Fokus auf VIPs: Wie erreichen wir durch Events zu denen wir einladen Menschen, die nichts mit Kirche zu tun haben?\n"
+			},
+			"21": {
+				"selection": "b",
+				"statement": "Wir sind offen dafür mit anderen Teams/Organisationen/Gruppen/... außerhalb der Kirche zu kooperieren\n"
+			},
+			"22": {
+				"selection": "c",
+				"statement": "Wenn du Teil eines Teams in einem verwandten Bereich bist, ist das eher Möglich (z.B. Producer)\n"
+			},
+			"23": {
+				"selection": "a",
+				"statement": "Wir freuen uns über jeden, auch wenn du nur für ein Big Event dabei sein kannst."
+			},
+			"24": {
+				"selection": "a",
+				"statement": "Wir freuen uns über jeden, auch wenn du nur für ein Big Event dabei sein kannst. Super wird es, wenn du uns sogar mit noch mehr Vorlauf hilfst das Beste zu geben.\n"
+			},
+			"25": {
+				"selection": "a",
+				"statement": "Wir freuen uns über jeden, auch wenn du nur für ein Big Event dabei sein kannst. Super wird es, wenn du uns sogar mit noch mehr Vorlauf hilfst das Beste zu geben.\n"
+			},
+			"26": {
+				"selection": "a",
+				"statement": "Wir freuen uns über jeden, auch wenn du nur für ein Big Event dabei sein kannst. Super wird es, wenn du uns sogar mit noch mehr Vorlauf hilfst das Beste zu geben.\n"
+			},
+			"27": {
+				"selection": "c",
+				"statement": "Dafür ist die Mitarbeit zu sehr zeitlich beschränkt. Wir empfehlen dir und wünschen uns, dass du Teil einer Smallgroup o.ä. bist. \n"
+			},
+			"28": {
+				"selection": "c",
+				"statement": "Dafür ist die Mitarbeit zu sehr zeitlich beschränkt. Wir empfehlen dir und wünschen uns, dass du Teil einer Smallgroup o.ä. bist. \n"
+			},
+			"29": {
+				"selection": "b",
+				"statement": "Dafür ist die Mitarbeit zu sehr zeitlich beschränkt. Learning on the Job geht zu einem gewissen Punkt schon, aber wir empfehlen dir und wünschen uns, dass du Teil einer Smallgoup oder eines Teams bist. \n"
+			},
+			"30": {
+				"selection": "a",
+				"statement": "Big Events sind keine one-man Show und sind nur durch eine Vielzahl von Leitern und ihren Teams möglich.\n"
+			},
+			"31": {
+				"selection": "a",
+				"statement": "In bestimmten Phasen der Mitarbeit ist ein selbständiges arbeiten im kleinen Kreis unumgänglich.\n"
+			}
+		},
+		"9": {
+			"0": {
+				"selection": "b",
+				"statement": "Explore ist ein 10-wöchiger Kurs, der 2x im Jahr (Frühjahr und Herbst) stattfindet."
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": "Als Exportleiter oder Mitarbeiter verpflichtet man sich für mind. einen Kursdurchlauf."
+			},
+			"4": {
+				"selection": "c",
+				"statement": "Explore findet meist innerhalb der Woche statt. Der Teamleiter entscheidet, wann Explore angeboten wird.\n"
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "a",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
+			},
+			"28": {
+				"selection": "a",
+				"statement": ""
+			},
+			"29": {
+				"selection": "c",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"10": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Bei den Get Free Groups gibt es die Möglichkeit für ca. 10 Wochen als Group Leiter oder Co-Leiter mit dabei zu sein. Get Free Groups finden aktuell 2mal im Jahr statt."
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Get Free Groups können Online stattfinden\n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": "Das Gebetsteam ist Sonntags vor Ort im Einsatz"
+			},
+			"12": {
+				"selection": "a",
+				"statement": "Du hilfst dabei, dass andere Menschen in eine göttliche Freiheit kommen\n"
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b ",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "a",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
+			},
+			"28": {
+				"selection": "b",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"11": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a ",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": "Als Schicht oder Teamleiter hast du Verantwortung über Mitarbeiter und leitest sie an."
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": "Ob Dekoration, Einrichten, Räume \"schön\" machen - das alles gehört zum Guest Experience Bereich. Da ist natürlich viel Kreativität gefragt.\n"
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "c",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "b",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "b",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": "In unseren sonntäglichen Briefings gibt es jede Woche Inputs und die Möglichkeit geistlich im Team zu wachsen.\n"
+			},
+			"28": {
+				"selection": "b",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "b",
+				"statement": ""
+			}
+		},
+		"12": {
+			"0": {
+				"selection": "a",
+				"statement": "Die Kidschurch findet jeden Sonntag um 10: 00 Uhr und 12: 00 Uhr statt. Du musst aber nicht jeden Sonntag mit dabei sein."
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
+				"statement": "Bspw. kannst du bei der inhaltlichen Erarbeitung oder Bastelvorbereitung für die Kids Church mithelfen"
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": "Im Kids Team suchen wir z.B. auch Leute, die gerne die Technik fürs Kids Programm machen wollen, oder die bei Vorbereitungen unter der Woche im kleinen Team unterstützen."
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": "Es gibt vielfältige Möglichkeiten, das Kids Team von zu Hause aus zu unterstützen, z.B. Ideensammlungen für Bastelarbeiten, Predigtrecherche, Theaterstücke schreiben, Slides oder Graphiken erstellen, und vieles mehr!"
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Zum Beispiel Moderation / Worship / Predigt / Theater bei den Maxis; Teilnahme an Family Musicals, und vieles mehr!"
+			},
+			"16": {
+				"selection": "a",
+				"statement": "Die Kinder- Gottesdienste müssen gut organisiert und vorbereitet werden.\n"
+			},
+			"17": {
+				"selection": "b",
+				"statement": "Wir singen und tanzen viel mit den Kindern. Aber auch ohne musikalisches Talent bist du herzlich willkommen.\n"
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "b",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": "Wir haben regelmäßige Schulungen und Teamtreffen, wo wir uns weiterbilden.\n"
+			},
+			"23": {
+				"selection": "b",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": "Wir unterstützen unsere Kinder im geistlichen Wachstum und arbeiten selbst stetig daran persönlich zu wachsen \n"
+			},
+			"28": {
+				"selection": "b",
+				"statement": "Bei uns lernst du viel über dich und deine Stärken und kannst an Selbstbewusstsein hinzugewinnen.\n"
+			},
+			"29": {
+				"selection": "b",
+				"statement": "Wir bilden uns regelmäßig weiter, das ist aber nicht unser Hauptfokus.\n"
+			},
+			"30": {
+				"selection": "b",
+				"statement": "Der Bereich ICF Kids besteht aus verschiedenen Teams, die von klein bis groß reichen"
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"13": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": "KinderSegnungen finden i.d.Regel 1x im Monat statt."
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Man kann auch eine KinderSegnung vorbereiten und nicht an dem Tag vor Ort sein. "
+			},
+			"4": {
+				"selection": "a",
+				"statement": "I.d.Regel finden Klndersegungen vormittags statt.\n"
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
+				"statement": "Die Vorbereitungen finden eigenständig unter der Woche statt.\n"
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Man lernt jede Menge neue Familien kennen.\n"
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Alles kann vom eigenen PC koordiniert werden. "
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Wir bereiten alles vor und garantieren einen reibungslosen und stresstesten Ablauf für die Familien."
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": "Organisation muss man hier lieben.\n"
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "c",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "c",
+				"statement": "Die KinderSegnungen finden zu unregelmäßig statt um nur kurzfristig mitzuarbeiten. Das braucht auch ab und zu mehr Geduld und dann gibt es Zeiten wo mehr zu tun ist. "
+			},
+			"25": {
+				"selection": "a",
+				"statement": "Die KinderSegnungen finden zu unregelmäßig statt um nur kurzfristig mitzuarbeiten. Das braucht auch ab und zu mehr Geduld und dann gibt es Zeiten wo mehr zu tun ist. "
+			},
+			"26": {
+				"selection": "b",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "b",
+				"statement": ""
+			},
+			"29": {
+				"selection": "c",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": "Wie sind zu Zweit."
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"14": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a ",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c ",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a ",
+				"statement": "Hauptsächlich via Mail und nicht Face to face"
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "b",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "b",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"15": {
+			"0": {
+				"selection": "c",
+				"statement": "Die Ladies Veranstaltungen finden alle 2-3 Monate statt zzgl. einem Planungstreffen und ggf. selbstständige Vorbereitungen \n"
+			},
+			"1": {
+				"selection": "c",
+				"statement": "Die Ladies Veranstaltungen finden alle 2-3 Monate statt zzgl. einem Planungstreffen und ggf. selbstständige Vorbereitungen \n"
+			},
+			"2": {
+				"selection": "b",
+				"statement": "Die Ladies Veranstaltungen finden alle 2-3 Monate statt zzgl. einem Planungstreffen und ggf. selbstständige Vorbereitungen \n"
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Die Ladies Veranstaltungen finden alle 2-3 Monate statt zzgl. einem Planungstreffen und ggf. selbstständige Vorbereitungen \n"
+			},
+			"4": {
+				"selection": "c",
+				"statement": "Die Ladies Veranstaltungen finden alle 2-3 Monate statt. Dabei fallen die Termine regelhaft auf einen Samstag. Planungstreffen finden nach individueller Absprache unter der Woche statt. \n"
+			},
+			"5": {
+				"selection": "c",
+				"statement": "Die Ladies Veranstaltungen finden alle 2-3 Monate statt. Dabei fallen die Termine regelhaft auf einen Samstag. Planungstreffen finden nach individueller Absprache unter der Woche statt. \n"
+			},
+			"6": {
+				"selection": "b",
+				"statement": "Die Ladies Veranstaltungen finden alle 2-3 Monate statt. Dabei fallen die Termine regelhaft auf einen Samstag. Planungstreffen finden nach individueller Absprache unter der Woche statt. \n"
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Im Ladies Team haben wir verschiedene Zuständigkeiten: solche mit viel persönlichem Kontakt (zum Beispiel Gebet und Welcome) und solche ohne (zum Beispiel Organisation und Dekoration). "
+			},
+			"8": {
+				"selection": "b",
+				"statement": "Im Ladies Team haben wir verschiedene Zuständigkeiten: solche mit viel persönlichem Kontakt (zum Beispiel Gebet und Welcome) und solche ohne (zum Beispiel Organisation und Dekoration). \n"
+			},
+			"9": {
+				"selection": "c",
+				"statement": "Die Zielgruppe von Ladies sind Frauen ab 18 Jahren. \n"
+			},
+			"10": {
+				"selection": "b",
+				"statement": "Nach dem jeweiligen Planungstreffen bereitet jede ihren Aufgabenbereich von zu Hause vor.\n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": "Wir sind keine defizitorientierte Gemeinschaft, aber wer braucht schon nie Unterstützung? Wir glauben an die Kraft von echter Gemeinschaft! #Sisterhood\n"
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": "Wir brauchen immer Eventmanager oder Bereichsverantwortliche, aber das ist keine Voraussetzung. \n"
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": "Wir bieten häufig DIYs an und bereiten die Events mit viel Liebe zum Detail vor (Deko, Producing, Media, etc.). Man muss aber nicht gerne basteln wollen oder so\n"
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": "Die Ladies Evevts sind dafür bekannt, überkirchlich Gemeinschaft zu bauen und ein guter Ort zum Mitbringen von Freundinnen zu sein. "
+			},
+			"21": {
+				"selection": "b",
+				"statement": "Ladies ist offen für alle, aber hauptsächlich richtet sich das Angebot an die Frauen im ICF"
+			},
+			"22": {
+				"selection": "a",
+				"statement": "Bei jedem Event wird eine Co-Leitung eingesetzt, damit wir miteinander wachsen und voneinander lernen können. \n"
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "c",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": "Ladies Veranstaltungen haben immer den Anspruch, Frauen auf ihrem geistlichen Weg zu begleiten.\n"
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "c",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": "Wir sind 5-10 Frauen im Team. Teilweise arbeiten wir schon seit Jahren zusammen, weshalb wir uns gut kennen und eine echte Teamgroup sind.\n"
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Wir sind 5-10 Frauen im Team. Teilweise arbeiten wir schon seit Jahren zusammen, weshalb wir uns gut kennen und eine echte Teamgroup sind.\n"
+			}
+		},
+		"16": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": "Du kannst frei entscheiden welchen Sonntag du mitarbeitest aber wir wünschen uns ein Commitment von mindestens einem Sonntag pro Monat."
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Hauptsächlich brauchen wir Leute vor Ort. Aber gerade das Betreuen des Livestreams kann man von überall aus machen. \n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": "Wir wollen uns immer verbessern. Wenn du eine Idee hast, wie das geht, kannst du im Rahmen von einer TEAM NIGHT UNITED gerne einen Workshop machen und deine Expertise weitergeben.\n"
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "c",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "b",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "a",
+				"statement": ""
+			},
+			"31": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"17": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": "Abgesehen von einem vorbereitenden Call (Dienstag Abend) ist alles am Sonntag."
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "b",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": ""
+			},
+			"28": {
+				"selection": "b",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"18": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Ja schon. Aber das schöne ist: in der Regel wollen sie etwas von dir und du musst sie nicht proaktiv ansprechen."
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": "Welches Buch kannst du empfehlen?"
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "a",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "c",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"19": {
+			"0": {
+				"selection": "c",
+				"statement": "Unsere Musicals finden zu Ostern und Weihnachten statt. Dafür wird deine Hilfe je nach Bereich vor der Veranstaltung benötigt (z.B. bei den Proben in den Monaten vorher, beim Event selbst oder schon ein halbes Jahr vorher zur Planung des Musicals)"
+			},
+			"1": {
+				"selection": "c",
+				"statement": "Sobald ein Musical ansteht wird fast wöchentlich geprobt."
+			},
+			"2": {
+				"selection": "c",
+				"statement": "Sobald ein Musical ansteht wird fast wöchentlich geprobt. Je nach Team kannst du aber auch mehr (z.B. als SchauspielerIn/TänzerIn/MusikerIn) oder weniger involviert sein (z.B. beim Stagedesign, Requisiten, Make-up,...) "
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Dieses Team bildet sich für jedes Event neu. Bei der Mitarbeit committest du dich nur für das eine Event (ggf. mit den Probezeiten vorab). "
+			},
+			"4": {
+				"selection": "b",
+				"statement": "Je nach Event wird auch da deine Hilfe gebraucht. "
+			},
+			"5": {
+				"selection": "b",
+				"statement": "Je nach Event wird auch da deine Hilfe gebraucht. "
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Kurz vor den Musicals wird unter der Woche viel gebastelt, genäht, Requisiten besorgt, gebrainstormt und geprobt. "
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Im Musical-Team lernst du für jedes Event neue begabte und begeisterte Leute kennen. In deinem Team probst du gemeinsam und gibst deine Begabungen ein, um ein grandioses Event mitzugestalten. Es kommen viele unterschiedliche Teams zusammen, die du alle kennen lernen wirst. \n"
+			},
+			"8": {
+				"selection": "b",
+				"statement": "Das Musical vereint viele unterschiedliche Teams. Je nach Team kannst du dich eher im Hintergrund einbringen und so auch das Event mit deiner Begabung unterstützen. \n"
+			},
+			"9": {
+				"selection": "a",
+				"statement": "Unsere Musicals werden hauptsächlich für die ganze Familie gemacht. Wir wollen jede Generation mit einbeziehen, ob auf der Bühne oder als Supporter im Hintergrund."
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Vor den Musicals steht eine Menge Planungsarbeit an. Ob Requisiten-Tabellen oder das Skript schreiben, Recherchearbeiten, Regie-Assistenz. Vieles wird mit der den Leitungsteams regelmäßig in online Meetings besprochen und geklärt. \n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": "Yess, ein Musical ist ein Event an dem jede Hilfe gebraucht werden kann. Ob bauen, basteln, einkaufen, Stühle stellen, schauspielern und noch viel mehr. Wir freuen uns über jeden, der einen Teil beitragen kann, ob auf oder hinter der Bühne. \n"
+			},
+			"12": {
+				"selection": "a",
+				"statement": "Hier kannst du unsere anderen Teams tatkräftig unterstützen. Als Stagie bist du z.B. für die Requisiten des Musicals verantwortlich, aber es gibt noch so viel mehr Bereiche an denen du SchauspielerInnen, TänzerInnen und MitarbeiterInnen helfen und unterstützen kannst. "
+			},
+			"13": {
+				"selection": "a",
+				"statement": "Du hast eine Leidenschaft und Begabung im Schauspiel, Tanz, Gesang, Stagedesign, etc.? Wir freuen uns dich kennen zu lernen und dir Leute an die Hand zu geben, mit denen du das Musical mitgestalten kannst. \n"
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Genau solche Leute sind eine riesen Stütze bei jedem Musical. Ob sich als Stagie um die Requisiten zu kümmern oder an der Technik zu stehen, damit die Zuschauer ein wundervolles Klangerlebnis haben. Wir sind dankbar für jeden Mitarbeiter der sich vor und hinter der Bühne investiert. "
+			},
+			"15": {
+				"selection": "a",
+				"statement": "Bei unseren Musicals wollen wir dein Talent fördern und schauen was in dir steckt. Ob gesanglich, schauspielerisch, tänzerisch, etc. \n"
+			},
+			"16": {
+				"selection": "a",
+				"statement": "Wenn für das Musical viele Teams aufeinandertreffen ist eine gute Planung und Organisation essentiell. Du hast Lust und Spaß daran z.B. der Regie zu helfen und dich um Recherchen, Planungen, Tabellen und Absprachen zu kümmern? Dann bist du im Musical Team genau richtig!\n"
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": "Ob auf der Bühne, dahinter oder in der Vorbereitung der Musicals. Wir wollen kreative Musicals auf die Beine stellen, die Menschen bewegen und einen Unterscheid machen. "
+			},
+			"19": {
+				"selection": "a",
+				"statement": "Genau hier hast du die Chance bei Projekten spannende Lichtinstallationen oder bunte Visuals auszuprobieren und deine Kreativität mit einzubringen. \n"
+			},
+			"20": {
+				"selection": "b",
+				"statement": "Unsere Musicals sind für unsere VIPs (kirchenferne Menschen) gedacht. Hier gibt es die Chance durch die Stück und an der Mitarbeit Leute zu erreichen, die nur zu Weihnachten oder Ostern in die Kirche kommen. "
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "b",
+				"statement": "Hier lernst du für die Musicals neue Fähigkeiten und wirst zum Teil in deinem Aufgabenbereich weitergebildet. Unsere Musicals finden allerdings nur zu Ostern und Weihnachten statt und sind auf diese Termine fokussiert."
+			},
+			"23": {
+				"selection": "a",
+				"statement": "Die Musicalproben finden ca. 2-3 Monate vor den Musicals statt. Eine super Gelegenheit in kurzer Zeit ein tolles Team zu finden und viele Leute anderer Teams kennen zu lernen. \n"
+			},
+			"24": {
+				"selection": "b",
+				"statement": "Ungefähr ein halbes Jahr vor dem Musical beginnt die Planungsphase. Du erlebst die Kickoff-Meetings, Orga-Treffen, Proben und zum Abschluss das fertige Musical. "
+			},
+			"25": {
+				"selection": "c",
+				"statement": ""
+			},
+			"26": {
+				"selection": "b",
+				"statement": "NACH dem Musical heißt immer auch VOR dem Musical. Kaum ist eins vorbei beginnt die Planung für das nächste. Wenn du bei der Entwicklung und Planung teilhaben möchtest, kannst du dich gern einbringen. Sobald es aber konkreter wird brauchen wir ggf. dein commitment für das Musical und deine Mitarbeit. \n"
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": "Für jedes Musical gibt es vor allem in den kreativen, musikalischen und technischen Teams die Möglichkeit dich weiterzubilden und neue Projekte mit zu gestalten und zu erleben"
+			},
+			"30": {
+				"selection": "b",
+				"statement": "Das Musical Team ist im Prinzip eine Gruppierung aus vielen unterschiedlich großen Teams. Alle kommen zusammen um ein Musical mitzugestalten. Hier merkst du schnell, dass du Teil von einem talentierten und großem Team bist. \n"
+			},
+			"31": {
+				"selection": "b",
+				"statement": "Bei jedem Musical helfen unterschiedlich große Teams mit und agieren zum Teil selbstständig und in Absprache mit der Regie-Leitung oder dem Produzenten.\n"
+			}
+		},
+		"20": {
+			"0": {
+				"selection": "c",
+				"statement": "Die Männer.Sache hat nur ein monatliches internes Treffen sowie vierteljährlich Events. Ab und an gibt es auch noch weitere Veranstaltungen, aber es gibt keine wöchentlichen, festen Termine.\n"
+			},
+			"1": {
+				"selection": "c",
+				"statement": "Die Männer.Sache hat nur ein monatliches internes Treffen sowie vierteljährlich Events. Ab und an gibt es auch noch weitere Veranstaltungen, aber es gibt keine zwei-wöchentlichen, festen Termine."
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Die Männer.Sache hat nur ein monatliches internes Treffen sowie vierteljährlich Events. Ab und an gibt es auch noch weitere Veranstaltungen. Im Monat gibt es üblicherweise zwei Termine.\n"
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Wir würden Dich gerne bei unserem monatlichen internen Treffen dabei haben (Small-Group Charakter), aber ansonsten ist die Männer.Sache Arbeit Event-basiert und damit weitestgehend flexibel.\n"
+			},
+			"4": {
+				"selection": "c",
+				"statement": "Sonntags gibt es üblicherweise keine Veranstaltung der Männer.Sache.\n"
+			},
+			"5": {
+				"selection": "c",
+				"statement": "Sonntags gibt es üblicherweise keine Veranstaltung der Männer.Sache.\n"
+			},
+			"6": {
+				"selection": "b",
+				"statement": "Unser monatliches internes Team-Treffen ist unter der Woche, die Events und Stammtische finden Samstags (Vierteljährlich) bzw. Freitags (monatlich) statt."
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Männer-Arbeit ist letztlich Beziehungsarbeit. \n"
+			},
+			"8": {
+				"selection": "b",
+				"statement": "Männer-Arbeit ist letztlich Beziehungsarbeit, aber wenn Dir das nicht zu 100% liegt, gibt es auch immer andere Bereiche die Männer.Sache zu unterstützen.\n"
+			},
+			"9": {
+				"selection": "c",
+				"statement": "Unsere Zielgruppe ist 18+ eher 18++\n"
+			},
+			"10": {
+				"selection": "c",
+				"statement": "Unsere Treffen sind weitestgehend offline.\n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": "Helfen tust Du den Männern mit uns immer, aber es gibt sicherlich Teams bei denen das Konkreter sichtbar wird. "
+			},
+			"13": {
+				"selection": "b",
+				"statement": "Uns liegt die geistliche Ausbildung der Männer auf dem Herzen, allerdings ist der Fokus auf der Beziehungsarbeit.\n"
+			},
+			"14": {
+				"selection": "c",
+				"statement": "Wir wollen im Vordergrund agieren ^^\n"
+			},
+			"15": {
+				"selection": "c",
+				"statement": "Wir stehen selten auf der Bühne."
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": "Definiere Kreativ. Wir sind sehr kreativ, aber vllt. anders, als man es normalerweise definieren würde. Finds raus!\n"
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": "Wir sind für viele neue Männer im ICF mit die ersten Anlaufstelle.\n"
+			},
+			"21": {
+				"selection": "a",
+				"statement": "Die Männer.Sache möchte auch ein Verknüpfungspunkt der Männer im ICF untereinander sein. \n"
+			},
+			"22": {
+				"selection": "b",
+				"statement": "Weiterbildung gibt es bei uns nicht in formalisierter Form, aber wir möchten Dich gerne Herausfordern an Deinen Aufgaben zu wachsen und unterstützen dabei nach Kräften."
+			},
+			"23": {
+				"selection": "c",
+				"statement": "Wir würden gerne längerfristig zusammen arbeiten und gemeinsam die Männer-Arbeit voranbringen. Aber schnuper doch mal rein.\n"
+			},
+			"24": {
+				"selection": "c",
+				"statement": "Wir würden gerne längerfristig zusammen arbeiten und gemeinsam die Männer-Arbeit voranbringen. Aber schnuper doch mal rein.\n"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "c",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c ",
+				"statement": "Mittelfristig wird unser Team wohl nicht Größer als 12 Mann werden"
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Wir arbeiten zusammen als Team, aber es gibt immer viele Aufgaben die Eigenverantwortlich um zusetzen sind. \n"
+			}
+		},
+		"21": {
+			"0": {
+				"selection": "b",
+				"statement": "Du kannst dir deine Zeit frei einteilen.\n"
+			},
+			"1": {
+				"selection": "b",
+				"statement": "Du kannst dir deine Zeit frei einteilen.\n"
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Der Newsletter kommt einmal im Monat raus und du kannst selbst entscheiden ob du einen Abend oder mehrere Tage investierst. \n"
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Du hast flexible Arbeitszeiten und kannst von zu Hause arbeiten.\n"
+			},
+			"7": {
+				"selection": "c",
+				"statement": "Du agierst eher alleine am PC/ Laptop und hast nur virtuell Kontakt zu anderen, um Dinge abzusprechen.\n"
+			},
+			"8": {
+				"selection": "a",
+				"statement": "Du agierst eher alleine am PC/ Laptop und hast nur virtuell Kontakt zu anderen, um Dinge abzusprechen.\n"
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": "Es ist sicher vom Vorteil, wenn du strukturiert und organisiert bist.\n"
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": "Jeder der sich registriert bekommt den Newsletter."
+			},
+			"21": {
+				"selection": "b",
+				"statement": "Der Newsletter ist hauptsächlich Informationsquelle für „Mitglieder“"
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "b",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "c",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": "Du agierst eher alleine am PC oder Laptop.\n"
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"22": {
+			"0": {
+				"selection": "b",
+				"statement": "Es gibt verschiedene Dienste, die wir in diesem Bereich abdecken. Wenn du ein gewisses Maß an Verbindlichkeit, Gewissenhaftigkeit und Freude an Verwaltung mitbringst, findest du dein Team möglicherweise in diesem Bereich."
+			},
+			"1": {
+				"selection": "b",
+				"statement": "Es gibt verschiedene Dienste, die wir in diesem Bereich abdecken. Wenn du ein gewisses Maß an Verbindlichkeit, Gewissenhaftigkeit und Freude an Verwaltung mitbringst, findest du dein Team möglicherweise in diesem Bereich."
+			},
+			"2": {
+				"selection": "b",
+				"statement": "Es gibt verschiedene Dienste, die wir in diesem Bereich abdecken. Wenn du ein gewisses Maß an Verbindlichkeit, Gewissenhaftigkeit und Freude an Verwaltung mitbringst, findest du dein Team möglicherweise in diesem Bereich."
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Es gibt verschiedene Dienste, die wir in diesem Bereich abdecken. Wenn du ein gewisses Maß an Verbindlichkeit, Gewissenhaftigkeit und Freude an Verwaltung mitbringst, findest du dein Team möglicherweise in diesem Bereich."
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Manche der Aufgaben werden sonntags umgesetzt. Zum Beispiel die wöchentliche Spendensammlung durch das Welcome Team."
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Manche der Aufgaben werden sonntags umgesetzt. Zum Beispiel die wöchentliche Spendensammlung durch das Welcome Team."
+			},
+			"6": {
+				"selection": "b",
+				"statement": "Viele Aufgaben werden flexibel gestaltet."
+			},
+			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Manche der Aufgaben können flexibel und digital erledigt werden. \n"
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Unsere Arbeit im Hintergrund sorgt dafür, dass der Alltag in der Kirche gut und flüssig funktioniert.\n"
+			},
+			"15": {
+				"selection": "c",
+				"statement": "Unsere Arbeit im Hintergrund sorgt dafür, dass der Alltag in der Kirche gut und flüssig funktioniert.\n"
+			},
+			"16": {
+				"selection": "a",
+				"statement": "Es gibt immer wieder Projekte im Laufe des Jahres, bei der du unterstützen oder eigenverantwortlich dabei sein kannst.\n"
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "b",
+				"statement": "In diesem Bereich schätzen wir je nach Team ein gewisses Maß an Verbindlichkeit, können aber auch Wege finden um kurzfristige Einsätze zu gestalten.\n"
+			},
+			"24": {
+				"selection": "b",
+				"statement": "In diesem Bereich schätzen wir je nach Team ein gewisses Maß an Verbindlichkeit, können aber auch Wege finden um kurzfristige Einsätze zu gestalten.\n"
+			},
+			"25": {
+				"selection": "b",
+				"statement": ""
+			},
+			"26": {
+				"selection": "b",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"23": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "a",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"24": {
+			"0": {
+				"selection": "c",
+				"statement": "D as Serienentwicklungsteam trifft sich derzeit einmal im Quartal, um gemeinsam größere theologischen Themen mit allen Sinnen zu erfassen. Du kannst jederzeit selbst eine Predigtserie entwickeln. Die weitere Mitarbeit findet immer dann statt, wenn der erste Entwurf einer Serie fertig ist und wir alle zu dieser Serie Feedback geben, um sie zu verfeinern. Davon abgesehen steht unser Chat jederzeit den Predigern zur Verfügung, um von uns Unterstützung zu bekommen."
+			},
+			"1": {
+				"selection": "c",
+				"statement": "Das Serienentwicklungsteam trifft sich derzeit einmal im Quartal, um gemeinsam größere theologischen Themen mit allen Sinnen zu erfassen. Du kannst jederzeit selbst eine Predigtserie entwickeln. Die weitere Mitarbeit findet immer dann statt, wenn der erste Entwurf einer Serie fertig ist und wir alle zu dieser Serie Feedback geben, um sie zu verfeinern. Davon abgesehen steht unser Chat jederzeit den Predigern zur Verfügung, um von uns Unterstützung zu bekommen."
+			},
+			"2": {
+				"selection": "b",
+				"statement": "Das Serienentwicklungsteam trifft sich derzeit einmal im Quartal, um gemeinsam größere theologischen Themen mit allen Sinnen zu erfassen. Du kannst jederzeit selbst eine Predigtserie entwickeln. Die weitere Mitarbeit findet immer dann statt, wenn der erste Entwurf einer Serie fertig ist und wir alle zu dieser Serie Feedback geben, um sie zu verfeinern. Davon abgesehen steht unser Chat jederzeit den Predigern zur Verfügung, um von uns Unterstützung zu bekommen."
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Das Serienentwicklungsteam trifft sich derzeit einmal im Quartal, um gemeinsam größere theologischen Themen mit allen Sinnen zu erfassen. Du kannst jederzeit selbst eine Predigtserie entwickeln. Die weitere Mitarbeit findet immer dann statt, wenn der erste Entwurf einer Serie fertig ist und wir alle zu dieser Serie Feedback geben, um sie zu verfeinern. Davon abgesehen steht unser Chat jederzeit den Predigern zur Verfügung, um von uns Unterstützung zu bekommen."
+			},
+			"4": {
+				"selection": "c",
+				"statement": "Das Ergebnis unserer Vorarbeit ist zwar immer wieder sonntags zu sehen, unser Teil ist aber mindestens drei Monate vorher abgeschlossen"
+			},
+			"5": {
+				"selection": "c",
+				"statement": "Das Ergebnis unserer Vorarbeit ist zwar immer wieder sonntags zu sehen, unser Teil ist aber mindestens drei Monate vorher abgeschlossen"
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Bis auf unser Treffen einmal im Quartal findet die Mitarbeit an den Predigtserien dann statt, wenn jeder sich die Zeit dafür nimmt. Unser Commitment ist es jede Serie zu feedbacken. Davon abgesehen steht unser Chat jederzeit den Predigern zur Verfügung, um von uns Unterstützung zu bekommen.\n"
+			},
+			"7": {
+				"selection": "c",
+				"statement": "Die Früchte unserer Mitarbeit kommen mit vielen Menschen in Kontakt. Wir selbst kommen aber vor allem miteinander im Team und mit den Inhalten der Predigten in Kontakt.\n"
+			},
+			"8": {
+				"selection": "a",
+				"statement": "Bis auf unsere Teamtreffen einmal im Quartal, kann man den analogen Kontakt zu Menschen im Rahmen der Mitarbeit völlig vermeiden.\n"
+			},
+			"9": {
+				"selection": "c",
+				"statement": "Unsere Predigtvorbereitungen können auch von der Kinderkirche genutzt werden. Wenn du aber gezielt Predigten für Kinder und Jugendliche vorbereiten möchtest, wende dich gerne an die NextGeneration-Leiter.\n"
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Bis auf unser Treffen einmal im Quartal, kannst du überall an den Predigtserien oder dem Feedback feilen, egal ob am Schreibtisch oder in der Hängematte.\n"
+			},
+			"11": {
+				"selection": "c",
+				"statement": "Wir packen vieles an wie relevante Themen oder lebensnahe Bibelauslegung - unser Handwerk ist in Worten und Texten. Wenn du lieber handfestere Dinge anpackst, kannst du das sehr gerne bei anderen Teams tun.\n"
+			},
+			"12": {
+				"selection": "b",
+				"statement": "Wir helfen den Menschen in der Celebration Gott zu erleben und besser kennen zu lernen und den Predigern, damit sie nicht die gesamte Vorbereitung alleine leisten müssen. Allerdings bringen wir ihnen kein Frühstück ans Bett. Wenn das deine Gabe ist, schau gerne mal bei den Wochenbettengeln vorbei ...\n"
+			},
+			"13": {
+				"selection": "c",
+				"statement": "Auch wenn Jesus uns auf vielen Wegen geistliche Inspiration schenkt und wir sie gerne ebenso breit weitergeben, findet dennoch bei uns (bisher) keine strukturierte Ausbildung statt.\n"
+			},
+			"14": {
+				"selection": "a",
+				"statement": "Unser Dienst findet völlig im Hintergrund statt - auch wenn sein Ertrag für die große Bühne bestimmt ist."
+			},
+			"15": {
+				"selection": "b",
+				"statement": "Unser Team steht überhaupt nicht im Rampenlicht, aber der Ertrag unserer Mitarbeit schon. Das bedeutet ein hohes Maß an Reife und Verantwortung.\n"
+			},
+			"16": {
+				"selection": "c",
+				"statement": "Bei uns liegt der Fokus stark auf den Inhalten und ihrer Vermittlung. Sie umzusetzen ist die Verantwortung anderer Teams.\n"
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": "Relevante Themen zu finden und zu Predigten zu formen ist ein kreativer Prozess, für den wir uns immer wieder vom Heiligen Geist inspirieren lassen.\n"
+			},
+			"19": {
+				"selection": "c",
+				"statement": "Wir arbeiten an den Inhalten, auch wenn wir Ideen zu ihrer Umsetzung einbringen können. Dafür arbeiten wir mit, aber nicht an technischen Mitteln. Alles, was dafür nötig ist, ist schnell erklärt.\n"
+			},
+			"20": {
+				"selection": "a",
+				"statement": "Das Endergebnis unserer Vorarbeit - lebensverändernde Predigten - sollen jeden erreichen, völlig egal ob er zum erstem Mal da ist, oder schon seit Jahren kommt.\n"
+			},
+			"21": {
+				"selection": "a",
+				"statement": "Das Endergebnis unserer Vorarbeit - lebensverändernde Predigten - sollen jeden erreichen, völlig egal ob er zum erstem Mal da ist, oder schon seit Jahren kommt.\n"
+			},
+			"22": {
+				"selection": "b",
+				"statement": "Auch wenn Jesus uns auf vielen Wegen geistliche Inspiration schenkt und wir sie gerne ebenso breit weitergeben, findet dennoch bei uns (bisher) keine strukturierte Ausbildung statt.\n"
+			},
+			"23": {
+				"selection": "a",
+				"statement": "Unser Zeitplan hat keine regelmäßigen Daten, sondern richtet sich immer nach dem geplanten Startdatum der Serie. Daher ist eine Mitarbeit immer möglich, um Serien zu entwickeln und zu feedbacken. Bei einer sehr kurzen Mitarbeit kann es aber vorkommen, dass in diesem Zeitraum nur sehr wenige, oder sogar gar keine Serien im Feedbackprozess sind.\n"
+			},
+			"24": {
+				"selection": "b",
+				"statement": "Unser Zeitplan hat keine regelmäßigen Daten, sondern richtet sich immer nach dem geplanten Startdatum der Serie. Daher ist eine Mitarbeit immer möglich, um Serien zu entwickeln und zu feedbacken."
+			},
+			"25": {
+				"selection": "a",
+				"statement": "Unser Zeitplan hat keine regelmäßigen Daten, sondern richtet sich immer nach dem geplanten Startdatum der Serie. Daher ist eine Mitarbeit immer möglich, um Serien zu entwickeln und zu feedbacken.\n"
+			},
+			"26": {
+				"selection": "a",
+				"statement": "Unser Zeitplan hat keine regelmäßigen Daten, sondern richtet sich immer nach dem geplanten Startdatum der Serie. Daher ist eine Mitarbeit immer möglich, um Serien zu entwickeln und zu feedbacken.\n"
+			},
+			"27": {
+				"selection": "a",
+				"statement": "Wenn wir uns mit den theologischen Themen beschäftigen, lassen wir uns zunächst selbst davon inspirieren und begeistern, bevor wir sie an andere weitergeben. Dieses Privileg, sich intensiver mit Gottes Wesen und Handeln zu beschäftigen, färbt auf uns ab.\n"
+			},
+			"28": {
+				"selection": "c",
+				"statement": "Auch wenn wir im Lesen der Bibel und Nachdenken über Gottes Wort immer persönlich verändert werden, liegt der Schwerpunkt unseres Teams darauf, diesen Schatz in einer relevanten Form für die ganze Kirche zu präsentieren."
+			},
+			"29": {
+				"selection": "b",
+				"statement": "Durch die unterschiedlichen Personen in unserem Team haben wir immer wieder die Chance, unseren eigenen Standpunkt vor Gott zu hinterfragen. Besonders unsere theologischen Diskussionen sind der Ort, um darin zu wachsen."
+			},
+			"30": {
+				"selection": "b",
+				"statement": "Die große Vielfalt in unserem Team hilft uns nicht einseitig zu werden. Dennoch ist es nicht so, dass wir unsere Mitarbeit untereinander aufteilen, sondern so, dass sie immer projektweise von uns allen gefragt ist.\n"
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Sowohl die Mitarbeit als Seriendesigner, wie auch im Feedbackprozess sind vor allem eigenverantwortlich. Aber die gegenseitige Ergänzung, die sich dadurch ergibt, ist wunderbar.\n"
+			}
+		},
+		"25": {
+			"0": {
+				"selection": "d",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "b",
+				"statement": ""
+			},
+			"5": {
+				"selection": "b",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": ""
+			},
+			"28": {
+				"selection": "b",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"26": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": "teilweise online, teilweise physisch. Aber wenn man möchte kann man auch nur Texte schreiben und weniger mit anderen Menschen in Kontakt kommen.\n"
+			},
+			"8": {
+				"selection": "b",
+				"statement": "Es gibt auch Aufgaben, wo der Kontakt zu anderen Menschen nicht zwingend notwendig ist.\n"
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "b",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "a",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
+			},
+			"28": {
+				"selection": "a",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"27": {
+			"0": {
+				"selection": "b",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Wir bieten neben regelmäßigen/ zweiwöchigen Events wie Hangouts und Worshipabende auch Camps und Specials an an denen du Projektweise mitarbeiten kannst. \n"
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Wir bieten neben regelmäßigen/ zweiwöchigen Events wie Hangouts und Worshipabende auch Camps und Specials an an denen du Projektweise mitarbeiten kannst. \n"
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Wir bieten neben regelmäßigen/ zweiwöchigen Events wie Hangouts und Worshipabende auch Camps und Specials an an denen du Projektweise mitarbeiten kannst. \n"
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Du kannst Abends bei der Sunday Night Celebration verschiedene Teams unterstützen \n"
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Unter der Woche werden die Hangouts geplant vorbereitet und beworben. Hierbei kannst du flexibel auch von zuhause aus uns unterstützen\n"
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Was wären TWNTS wenn du nur zuhause auf der Couch hocken würdest. Bei uns geht es darum neue Leute kennen zu lernen, sich connecten, Freundschaften aufzubauen und in Gemeinschaft Jesus zu erleben. "
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": "Next Gen nur Krasser, das sind wir TWNTS \n"
+			},
+			"10": {
+				"selection": "b",
+				"statement": "Unter der Woche werden die Hangouts geplant vorbereitet und beworben. Hierbei kannst du flexibel auch von zuhause aus uns unterstützen\n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": "Bei den Hangouts, Worship Nights oder Camps brauchen wir tatkräftige Unterstützung.\n"
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": "Wir organisieren verschiedene Events und Hangouts und brauchen immer kreative Köpfe die uns beim Brainstorming oder auch bei der Umsetzung helfen. \n"
+			},
+			"17": {
+				"selection": "a",
+				"statement": "TWNTS Band\n"
+			},
+			"18": {
+				"selection": "a",
+				"statement": "Wir wollen über Social Media unsere Events bewerben und brauchen kreative Leute die sich im Design und Social Media gut auskenne oder ausprobieren wollen. \n"
+			},
+			"19": {
+				"selection": "b",
+				"statement": "Technik Team ? Für TWNTS Worship Nights \n"
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "b",
+				"statement": ""
+			},
+			"23": {
+				"selection": "b",
+				"statement": "Wir wollen in Semesterabschnitten TWNTS Events machen und planen daher im Halbjahres Rhythmus \n"
+			},
+			"24": {
+				"selection": "a",
+				"statement": "Wir wollen in Semesterabschnitten TWNTS Events machen und planen daher im Halbjahres Rhythmus \n"
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": "Bei Worship Nights wollen wir durch Inputs geistlich wachsen \n"
+			},
+			"28": {
+				"selection": "a",
+				"statement": "Bei Worship Nights wollen wir durch Inputs geistlich wachsen \n"
+			},
+			"29": {
+				"selection": "c",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": "Noch nicht... Aber bald ;) \n"
+			},
+			"31": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"28": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": "Die Team Night/Team Night United findet aller paar Monate statt. \n"
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Die Team Night/Team Night United findet aller paar Monate statt. \n"
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
+				"statement": "Du kannst im Hintergrund organisieren und Speaker/Teacher anfragen aber du kannst auch auf der Bühne moderieren. Es gibt viele Einsatzmöglichkeiten.\n"
+			},
+			"8": {
+				"selection": "b",
+				"statement": "Du kannst im Hintergrund organisieren und Speaker/Teacher anfragen aber du kannst auch auf der Bühne moderieren. Es gibt viele Einsatzmöglichkeiten.\n"
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": "Viel Organisation ist von zu Hause aus möglich. Immer mal wieder auch die Betreuung des Livestreams ist von zu Hause aus möglich.\n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": "In der Regel findet die TN/TNU vor Ort statt.\n"
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "b",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
+			},
+			"28": {
+				"selection": "a",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"29": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": "Nicht nur einmal im Monat"
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Die Teens Celebration findet um 12 Uhr statt"
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Youthplanet findet freitags ab 16 Uhr statt"
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "b",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "b",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "c",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
+			},
+			"28": {
+				"selection": "a",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"30": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "b",
+				"statement": ""
+			},
+			"5": {
+				"selection": "b",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": "Die Bearbeitung im Nachhinein ist von zu Hause möglich. Das Filmen ist nur vor Ort möglich. Aber auch da gibt es unterschiedliche Drehorte in ganz Berlin... je nach Video.\n"
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "c",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "b",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"31": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c ",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"32": {
+			"0": {
+				"selection": "b",
+				"statement": "Wir möchten unsere Teamleute 1-3 mal im Monat nach Verfügbarkeit einplanen."
+			},
+			"1": {
+				"selection": "a",
+				"statement": "Wir möchten unsere Teamleute 1-3 mal im Monat nach Verfügbarkeit einplanen."
+			},
+			"2": {
+				"selection": "a",
+				"statement": "Wir möchten unsere Teamleute 1-3 mal im Monat nach Verfügbarkeit einplanen."
+			},
+			"3": {
+				"selection": "c",
+				"statement": "Wir möchten unsere Teamleute 1-3 mal im Monat nach Verfügbarkeit einplanen."
+			},
+			"4": {
+				"selection": "a",
+				"statement": "Es ist auch möglich nur morgens/vormittags im Worshipteam zu dienen.\n"
+			},
+			"5": {
+				"selection": "a",
+				"statement": "Es ist auch möglich nur abends im Worshipteam zu dienen.\n"
+			},
+			"6": {
+				"selection": "a",
+				"statement": "Wir treffen uns jeden Donnerstag, allerdings in erster Linie zum auftanken in unseren Teamgroups, aber auch zum vertiefen unserer Skills und vorbereiten der Sonntage.\n"
+			},
+			"7": {
+				"selection": "a",
+				"statement": "Du stehst nicht nur vor vielen Menschen aus unserer Kirche, sondern betest mit ihnen gemeinsam Gott an. Deine Einstellung dazu ist mega wichtig! Du bist Teil eines Worshipteams und kein Solokünstler.\n"
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": "Wir haben bzw. bauen in allen Altersstufen Worshipteams auf.\n"
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a ",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "a",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": "Tatsächlich kannst du auch als musikalischer Technikgeek uns im Worshipteam bereichen. Wie? Meld dich :)\n"
+			},
+			"20": {
+				"selection": "b",
+				"statement": "Wir legen auch Wert darauf mit Partnerorganisationen Outreaches mit zu begleiten.\n"
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "a",
+				"statement": "Du bekommst regelmäßig Feedback und hast die Möglichkeit jeden Donnerstag dich weiter bilden zu lassen.\n"
+			},
+			"23": {
+				"selection": "c",
+				"statement": "In der Regel braucht es eine gewisse Zeit bis man ready ist für die Bühne. \n"
+			},
+			"24": {
+				"selection": "c",
+				"statement": "In der Regel braucht es eine gewisse Zeit bis man ready ist für die Bühne. \n"
+			},
+			"25": {
+				"selection": "a",
+				"statement": "In der Regel braucht es eine gewisse Zeit bis man ready ist für die Bühne. Das kann von 1-x Monaten dauern, nachdem man die Audition mitgemacht hat.\n"
+			},
+			"26": {
+				"selection": "a",
+				"statement": "In der Regel braucht es eine gewisse Zeit bis man ready ist für die Bühne. Das kann von 1-x Monaten dauern, nachdem man die Audition mitgemacht hat."
+			},
+			"27": {
+				"selection": "a",
+				"statement": "Du bekommst regelmäßig Feedback und hast die Möglichkeit jeden Donnerstag dich in deiner Teamgroup weiter zu entwickeln\n"
+			},
+			"28": {
+				"selection": "a",
+				"statement": "Du bekommst regelmäßig Feedback und hast die Möglichkeit jeden Donnerstag dich in deiner Teamgroup weiter zu entwickeln. Mentoring ist auch möglich.\n"
+			},
+			"29": {
+				"selection": "a",
+				"statement": "Du bekommst regelmäßig Feedback und hast die Möglichkeit jeden Donnerstag dich in deiner Teamgroup weiter zu entwickeln"
+			},
+			"30": {
+				"selection": "a",
+				"statement": "Wir haben mehrere Teamgroups, sind aber an sich ein sehr großes Team, dass sich nicht streng auf die Teamgroups aufteilt. Wir nutzen als großes Team die Kraft der Smallgroups.\n"
+			},
+			"31": {
+				"selection": "a",
+				"statement": "Wir erwarten eine selbständige Vorbereitung auf die Songs.\n"
+			}
+		},
+		"33": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "b",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "b",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "a",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "c",
+				"statement": ""
+			},
+			"28": {
+				"selection": "c",
+				"statement": ""
+			},
+			"29": {
+				"selection": "a",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"34": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
+			},
+			"2": {
+				"selection": "b",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "b",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "a",
+				"statement": ""
+			},
+			"19": {
+				"selection": "a",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": ""
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "c",
+				"statement": ""
+			},
+			"23": {
+				"selection": "a",
+				"statement": ""
+			},
+			"24": {
+				"selection": "a",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": ""
+			},
+			"26": {
+				"selection": "a",
+				"statement": ""
+			},
+			"27": {
+				"selection": "b",
+				"statement": ""
+			},
+			"28": {
+				"selection": "b",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "c",
+				"statement": ""
+			},
+			"31": {
+				"selection": "a",
+				"statement": ""
+			}
+		},
+		"35": {
+			"0": {
+				"selection": "a",
+				"statement": "Bible Track ist jede Woche außer in den Ferien\n"
+			},
+			"1": {
+				"selection": "c",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": "gemeinsam statt einsam entdecken wir die Bibel\n"
+			},
+			"8": {
+				"selection": "c",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "a",
+				"statement": ""
+			},
+			"17": {
+				"selection": "c",
+				"statement": ""
+			},
+			"18": {
+				"selection": "c",
+				"statement": ""
+			},
+			"19": {
+				"selection": "c",
+				"statement": ""
+			},
+			"20": {
+				"selection": "a",
+				"statement": "durch online eröffnet der Bibeltrack ortsunabhängige Teilnahme "
+			},
+			"21": {
+				"selection": "a",
+				"statement": ""
+			},
+			"22": {
+				"selection": "b",
+				"statement": ""
+			},
+			"23": {
+				"selection": "c",
+				"statement": ""
+			},
+			"24": {
+				"selection": "c",
+				"statement": ""
+			},
+			"25": {
+				"selection": "a",
+				"statement": "Bible Track geht ein Jahr "
+			},
+			"26": {
+				"selection": "b",
+				"statement": "Bible Track geht ein Jahr "
+			},
+			"27": {
+				"selection": "a",
+				"statement": ""
+			},
+			"28": {
+				"selection": "a",
+				"statement": ""
+			},
+			"29": {
+				"selection": "b",
+				"statement": ""
+			},
+			"30": {
+				"selection": "b",
+				"statement": ""
+			},
+			"31": {
+				"selection": "b",
+				"statement": ""
+			}
+		}
+	}
+}
